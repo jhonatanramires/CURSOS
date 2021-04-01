@@ -1,0 +1,6 @@
+print("como te llamas bro") 
+nombre = input()
+print( nombre + " woa buenisimo tu name bro")
+print("y como va el dia bro")
+input()
+print("nos vemos " + nombre + " me tengo que ir bay :(")
